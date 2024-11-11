@@ -1,0 +1,21 @@
+{
+  "name": "de.mondanzo.unityignore",
+  "version": "1.0.0",
+  "displayName": "UnityIgnore",
+  "description": "A small utility to add a typical ignore format for the unity version control.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/Mondanzo/UnityIgnore",
+  "changelogUrl": "https://github.com/Mondanzo/UnityIgnore/Changelog.md",
+  "licensesUrl": "https://github.com/Mondanzo/License.md",
+ "keywords": [
+    "version-control",
+    "ignore",
+    "collaboration"
+  ],
+  "author": {
+    "name": "Mondanzo",
+    "email": "danzo@mondanzo.de",
+    "url": "https://mondanzo.de"
+  }
+}
